@@ -1,0 +1,5 @@
+# Indexed Functions
+
+In Nx they refer to operations that access or update elements in a tensor using indices.
+In this guide we are not just going to show how this functions work, but also emphasize
+exactly where each element is taken from and where it ends up.
